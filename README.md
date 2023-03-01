@@ -3,13 +3,13 @@
 <a href="https://www.linkedin.com/in/tristan-duncombe-306263213/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-### :woman_technologist: &nbsp;About Me :
+### About Me :
 
-I am a Undergraduate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently working on Front End Web Development.
+I am a Undergraduate Software Engineer currently working on Front End Web Development.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
