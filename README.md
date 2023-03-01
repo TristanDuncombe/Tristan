@@ -27,7 +27,7 @@ I am a Undergraduate Software Engineer currently working on Front End Web Develo
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tristanduncombe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanduncombe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
