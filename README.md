@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/tristan-duncombe-306263213/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-### About Me :
-
-I am a Undergraduate Software Engineer currently working on Front End Web Development.
+Hi I'm Tristan, an Undergraduate Software Engineer and a 3rd year university student, studying a Bachelor (Honours) & Master of Software Engineering. I love a lot of different things: classical music, aerospace, and Formuale One.
 
 ---
 
